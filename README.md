@@ -1,4 +1,4 @@
-# ryan_heron_p0
+# dota 2 db
 Application Name: Dota 2 Player/Match Database and Summarizer
 High Level Description: This application will create and maintain a database of players and matches in the Dota 2 game by entering player IDs and Match IDs. It will hold and display the relevant information from the players and matches entered into the database and will, on request, provide a summary of the requested player or match.
 User Story List:
